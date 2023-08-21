@@ -35,13 +35,13 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 
 ### :low_brightness: 사용 기술 스택
 ● Java 11  <br>
-<img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br/>
 ● Spring Boot 2.4.2 <br>
 ● Maven <br>
 ● Jpa <br>
 ● MySql 5.7.41 <br>
 ● React <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <br/>
 ● Docker <br>
 ● AWS <br>
 ● Github Actions <br>
