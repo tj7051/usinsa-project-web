@@ -34,7 +34,7 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 ---
 
 ### :low_brightness: 사용 기술 스택
-● Java 11  <br>
+// ● Java 11  <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br/>
 ● Spring Boot 2.4.2 <br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br/>
