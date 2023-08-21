@@ -46,17 +46,30 @@
 
 ## 🖥 주요 기능
 #### 회원가입 & 로그인 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85,-%EB%A1%9C%EA%B7%B8%EC%9D%B8)">상세보기 - Wiki 이동</a>
-
-#### 메인 홈페이지 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)">상세보기 - Wiki 이동</a>
-
+- ID 중복 체크
+- DB값 검증
+- 로그인 시 토큰(token) 생성
+#### 메인페이지 & 상품리스트 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)">상세보기 - Wiki 이동</a>
+- 권한에 따라 다른 인터페이스
+- 검색 기능
+- 상품 타입별 리스트
 #### 마이페이지 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(My-Page)">상세보기 - Wiki 이동</a>
-
+- 회원정보 변경(ID / PW)
+- 회원 탈퇴
 #### 상품 등록 & 수정 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D-&-%EC%88%98%EC%A0%95)">상세보기 - Wiki 이동</a>
-
+- 상품 등록
+- 이미지 등록
+- 할인율, 재고 등 설정
+#### 상품 자세히 보기 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EC%9E%90%EC%84%B8%ED%9E%88-%EB%B3%B4%EA%B8%B0)">상세보기 - Wiki 이동
+- 상품 정보 & 조회수
+- 좋아요 기능
+- 댓글 기능
 #### 상품 주문 & 취소 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EC%A3%BC%EB%AC%B8-&-%EC%B7%A8%EC%86%8C)">상세보기 - Wiki 이동</a>
-
+- 수량 설정 후 주문
+- 주문 수량에 따른 재고 감소
 #### 댓글 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5)">상세보기 - Wiki 이동</a>
-
+- 댓글 작성
+- 댓글 수정 & 삭제
 ---
 
 ## 🔗 구조도
