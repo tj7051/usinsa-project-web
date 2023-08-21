@@ -40,8 +40,7 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 ● Jpa <br>
 ● MySql 5.7.41 <br>
 ● React <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-#61DAFB
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
 ● Docker <br>
 ● AWS <br>
 ● Github Actions <br>
