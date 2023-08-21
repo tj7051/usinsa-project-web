@@ -45,17 +45,17 @@
 ---
 
 ## 🖥 주요 기능
-#### 회원가입 & 로그인 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85,-%EB%A1%9C%EA%B7%B8%EC%9D%B8)"> - 상세보기 - Wiki 이동</a>
+#### 회원가입 & 로그인 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85,-%EB%A1%9C%EA%B7%B8%EC%9D%B8)">상세보기 - Wiki 이동</a>
 
-#### 메인 홈페이지
+#### 메인 홈페이지 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)">상세보기 - Wiki 이동</a>
 
-#### 마이페이지
+#### 마이페이지 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(My-Page)">상세보기 - Wiki 이동</a>
 
-#### 상품 등록 & 수정
+#### 상품 등록 & 수정 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D-&-%EC%88%98%EC%A0%95)">상세보기 - Wiki 이동</a>
 
-#### 상품 주문 & 취소
+#### 상품 주문 & 취소 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EC%A3%BC%EB%AC%B8-&-%EC%B7%A8%EC%86%8C)">상세보기 - Wiki 이동</a>
 
-#### 댓글 작성
+#### 댓글 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5)">상세보기 - Wiki 이동</a>
 
 ---
 
