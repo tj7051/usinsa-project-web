@@ -24,16 +24,16 @@
 
 7. ☁ **AWS 클라우드 배포**: 애플리케이션은 Amazon Web Services(AWS)를 활용하여 클라우드 환경에서 운영됩니다. AWS의 다양한 서비스를 통해 안정적이고 확장 가능한 인프라를 구축하고 관리합니다.
 
-MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융합하여 구축되었습니다. 이를 통해 고객에게 더욱 편리하고 안전한 쇼핑 경험을 제공하며, 지속적인 개발과 배포로 언제나 최신 기능을 제공할 수 있습니다.
+8. 🔄 ORM으로 JPA 사용: 데이터베이스 조작에는 ORM 기술인 JPA를 활용하여 객체 지향적인 방식으로 데이터베이스와 상호작용합니다. 이로써 SQL 쿼리 작성 및 데이터베이스 조작의 복잡성을 줄이고, 보안과 성능을 향상시킵니다.
 
 ---
 
-### :alarm_clock:  개발 기간
+## :alarm_clock:  개발 기간
 ● 23.05.01 - 23.05.19
 
 ---
 
-### :low_brightness: 사용 기술 스택
+## :low_brightness: 사용 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"> <br/>
@@ -44,12 +44,24 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> <br/>
 ---
 
-### 🔗 구조도
+## 🖥 주요 기능
+#### 회원가입 & 로그인 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85,-%EB%A1%9C%EA%B7%B8%EC%9D%B8)"> - 상세보기 - Wiki 이동</a>
+
+#### 메인 홈페이지
+
+#### 마이페이지
+
+#### 상품 등록 & 수정
+
+#### 상품 주문 & 취소
+
+#### 댓글 작성
 
 ---
 
-### 🔍  ERD
+## 🔗 구조도
 
 ---
 
-### 🖥 클라이언트 화면
+## 🔍  ERD
+
