@@ -37,14 +37,20 @@ MSA 아키텍처를 토대로 혁신적인 아이디어와 최신 기술을 융�
 ● Java 11  <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br/>
 ● Spring Boot 2.4.2 <br>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br/>
 ● Maven <br>
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"> <br/>
 ● Jpa <br>
 ● MySql 5.7.41 <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <br/>
 ● React <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <br/>
 ● Docker <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Dokcer&logoColor=white"/> <br/>
 ● AWS <br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <br/>
 ● Github Actions <br>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> <br/>
 
 ---
 
