@@ -1,7 +1,8 @@
 # SpringBoot(MSA)-Project-USINSA
 
+<div align="center">
 ![musinsa1](https://github.com/tj7051/usinsa-project-web/assets/133080387/cc2d0374-a24a-4685-a544-e83266067003)
-
+</div>
 
 ## :tv:  프로젝트 소개
 
