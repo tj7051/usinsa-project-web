@@ -64,12 +64,11 @@
 #### 상품 자세히 보기 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EC%9E%90%EC%84%B8%ED%9E%88-%EB%B3%B4%EA%B8%B0)">상세보기 - Wiki 이동
 - 상품 정보 & 조회수
 - 좋아요 기능
-- 댓글 보기
 #### 상품 주문 & 취소 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%ED%92%88-%EC%A3%BC%EB%AC%B8-&-%EC%B7%A8%EC%86%8C)">상세보기 - Wiki 이동</a>
 - 수량 설정 후 주문
 - 주문 수량에 따른 재고 감소
 #### 댓글 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5)">상세보기 - Wiki 이동</a>
-- 댓글 작성
+- 댓글 작성 & 읽기
 - 댓글 수정 & 삭제
 ---
 
