@@ -50,7 +50,7 @@
 - ID 중복 체크
 - DB값 검증
 - 로그인 시 토큰(token) 생성
-#### 메인페이지 & 상품리스트 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)">상세보기 - Wiki 이동</a>
+#### 메인페이지 & 상품리스트 - <a href="https://github.com/tj7051/usinsa-project-web/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80,-%EC%83%81%ED%92%88-%EB%A6%AC%EC%8A%A4%ED%8A%B8)">상세보기 - Wiki 이동</a>
 - 권한에 따라 다른 인터페이스
 - 검색 기능
 - 상품 타입별 리스트
