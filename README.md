@@ -26,8 +26,9 @@
 
 ---
 
-## :alarm_clock:  개발 기간
-● 23.05.01 - 23.05.19
+## :alarm_clock:  개발 과정
+
+![개발과정](https://github.com/tj7051/usinsa-project-web/blob/main/img/%EA%B0%9C%EB%B0%9C%20%EA%B3%BC%EC%A0%95.png)
 
 ---
 
@@ -70,9 +71,10 @@
 - 댓글 수정 & 삭제
 ---
 
-## 🔗 구조도
+## 🔗 배포 구조도
 
----
+![배포](https://github.com/tj7051/usinsa-project-web/blob/main/img/%EB%B0%B0%ED%8F%AC.png)
 
 ## 🔍  ERD
 
+![erd](https://github.com/tj7051/usinsa-project-web/blob/main/img/ERD.png)
